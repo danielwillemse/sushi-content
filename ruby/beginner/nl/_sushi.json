@@ -1,0 +1,47 @@
+{
+  "serie_title": "Ruby voor beginners",
+  "language": "nl",
+  "subject": "ruby",
+  "cards": [
+    {
+      "title": "Ruby installeren",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Je eerste Ruby programma",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Praten met de gebruiker",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Vergelijkingen en 'if condities'",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Bijzonder 'if' condities",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Herhalingen en 'loops'",
+      "filename": "06",
+      "card_number": 6
+    },
+    {
+      "title": "Tijd voor een spelletje!",
+      "filename": "07",
+      "card_number": 7
+    }
+  ],
+  "description": "Een introductie voor Ruby, voor Ninjas die misschien nog nooit hebben geprogrammeerd",
+  "difficulty": 1,
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo"
+}
