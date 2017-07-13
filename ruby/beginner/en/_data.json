@@ -1,0 +1,65 @@
+{
+  "01": {
+    "title": "Getting setup",
+    "filename": "01",
+    "language": "ruby",
+    "subject": "ruby",
+    "card_number": 1,
+    "series_total_cards": 7,
+    "series_title": "Get started with Ruby"
+  },
+  "02": {
+    "title": "Your first Ruby program",
+    "filename": "02",
+    "language": "ruby",
+    "subject": "ruby",
+    "card_number": 2,
+    "series_total_cards": 7,
+    "series_title": "Get started with Ruby"
+  },
+  "03": {
+    "title": "Talking to the user",
+    "filename": "03",
+    "language": "ruby",
+    "subject": "ruby",
+    "card_number": 3,
+    "series_total_cards": 7,
+    "series_title": "Get started with Ruby"
+  },
+  "04": {
+    "title": "Comparison & if statements",
+    "filename": "04",
+    "language": "ruby",
+    "subject": "ruby",
+    "card_number": 4,
+    "series_total_cards": 7,
+    "series_title": "Get started with Ruby"
+  },
+  "05": {
+    "title": "Fancy if statements",
+    "filename": "05",
+    "language": "ruby",
+    "subject": "ruby",
+    "card_number": 5,
+    "series_total_cards": 7,
+    "series_title": "Get started with Ruby"
+  },
+  "06": {
+    "title": "Loops",
+    "filename": "06",
+    "language": "ruby",
+    "subject": "ruby",
+    "card_number": 6,
+    "series_total_cards": 7,
+    "series_title": "Get started with Ruby"
+  },
+  "07": {
+    "title": "Let's make a game!",
+    "filename": "07",
+    "language": "ruby",
+    "subject": "ruby",
+    "card_number": 7,
+    "series_total_cards": 7,
+    "series_title": "Get started with Ruby"
+  }
+}

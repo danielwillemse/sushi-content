@@ -1,0 +1,47 @@
+{
+  "serie_title": "Get started with Ruby",
+  "language": "en",
+  "subject": "ruby",
+  "cards": [
+    {
+      "title": "Getting setup",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Your first Ruby program",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Talking to the user",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Comparison & if statements",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Fancy if statements",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Loops",
+      "filename": "06",
+      "card_number": 6
+    },
+    {
+      "title": "Let's make a game!",
+      "filename": "07",
+      "card_number": 7
+    }
+  ],
+  "description": "An introduction to Ruby, for Ninjas who have potentially never programmed before.",
+  "difficulty": 1,
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo"
+}
